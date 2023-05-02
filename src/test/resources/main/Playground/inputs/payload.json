@@ -1,0 +1,44 @@
+{
+    "headers" : [
+        "TV-UUID",
+        "Manufacturer",
+        "Retailer",
+        "brand",
+        "Promoter",
+        "Size",
+        "Type",
+        "Price"
+    ],
+    "rows" : [
+        [
+            "AU7700",
+        "Samsung",
+        "Croma",
+        "Samsung",
+        "Croma",
+        "55''",
+        "UHDTV",
+        "65000k"
+        ],
+        [
+         "AUED65",
+        "Xaomi",
+        "Reliance",
+        "Xaomi",
+        "Reliance",
+        "55''",
+        "HDTV",
+        "45000k"
+        ],
+        [
+         "OnePlus Y",
+        "OnePlus",
+        "Amazon",
+        "OnePlus",
+        "Amazon",
+        "55''",
+        "SDTV",
+        "37000k"
+        ]
+    ]
+}
